@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desarrollador Frontend<br>🌱 Aprendizaje constante<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Desarrollador Fullstack JS - C# <br>🌱 Aprendizaje constante<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
